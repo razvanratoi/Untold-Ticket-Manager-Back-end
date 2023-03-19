@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tickets>
+  <ticket xmlns="3">
+    <cashier_id>4</cashier_id>
+    <show xmlns="2">
+      <title>Night show</title>
+      <artist>Anne Marie</artist>
+      <genre>Pop</genre>
+    </show>
+    <quantity>2</quantity>
+  </ticket>
+  <ticket xmlns="4">
+    <cashier_id>4</cashier_id>
+    <show xmlns="2">
+      <title>Night show</title>
+      <artist>Anne Marie</artist>
+      <genre>Pop</genre>
+    </show>
+    <quantity>4</quantity>
+  </ticket>
+  <ticket xmlns="5">
+    <cashier_id>3</cashier_id>
+    <show xmlns="2">
+      <title>Night show</title>
+      <artist>Anne Marie</artist>
+      <genre>Pop</genre>
+    </show>
+    <quantity>1</quantity>
+  </ticket>
+  <ticket xmlns="6">
+    <cashier_id>3</cashier_id>
+    <show xmlns="2">
+      <title>Night show</title>
+      <artist>Anne Marie</artist>
+      <genre>Pop</genre>
+    </show>
+    <quantity>3</quantity>
+  </ticket>
+</tickets>
